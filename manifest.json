@@ -1,11 +1,11 @@
 {
   "name": "PRAN RFL GROUP",
-  "short_name": "PRAN RFL GROUP",
+  "short_name": "PRAN RFL",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#f3f6fa",
   "theme_color": "#1769e0",
-  "description": "PRAN RFL GROUP দৈনিক পণ্য হিসাব অ্যাপ",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "icon-192.png",
